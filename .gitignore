@@ -4,7 +4,6 @@ public
 .idea
 .vscode
 .DS_Store
-.env
 *.log
-yarn.lock
 gatsby-node.old.js
+config.bat
